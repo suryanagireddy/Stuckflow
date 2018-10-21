@@ -1,0 +1,12 @@
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\bin\Debug\StuckflowProject.ViewModels.dll
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\bin\Debug\StuckflowProject.ViewModels.pdb
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\obj\Debug\StuckflowProject.ViewModels.csprojResolveAssemblyReference.cache
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\obj\Debug\StuckflowProject.ViewModels.csproj.CoreCompileInputs.cache
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\obj\Debug\StuckflowProject.ViewModels.dll
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\obj\Debug\StuckflowProject.ViewModels.pdb
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\bin\Debug\StuckflowProject.ViewModels.dll.config
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\bin\Debug\EntityFramework.dll
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\bin\Debug\EntityFramework.xml
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\mvc\StuckflowProject\StuckflowProject.ViewModels\obj\Debug\StuckflowProject.ViewModels.csproj.CopyComplete

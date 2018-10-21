@@ -1,0 +1,12 @@
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\bin\Debug\StuckflowProject.DomainModels.dll.config
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\bin\Debug\StuckflowProject.DomainModels.dll
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\bin\Debug\StuckflowProject.DomainModels.pdb
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\bin\Debug\EntityFramework.dll
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\bin\Debug\EntityFramework.xml
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\obj\Debug\StuckflowProject.DomainModels.csprojResolveAssemblyReference.cache
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\obj\Debug\StuckflowProject.DomainModels.csproj.CoreCompileInputs.cache
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\obj\Debug\StuckflowProject.DomainModels.csproj.CopyComplete
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\obj\Debug\StuckflowProject.DomainModels.dll
+C:\mvc\StuckflowProject\StuckflowProject.DomainModels\obj\Debug\StuckflowProject.DomainModels.pdb

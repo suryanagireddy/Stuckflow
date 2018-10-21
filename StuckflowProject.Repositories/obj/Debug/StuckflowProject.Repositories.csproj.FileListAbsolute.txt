@@ -1,0 +1,15 @@
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\obj\Debug\StuckflowProject.Repositories.csprojResolveAssemblyReference.cache
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\obj\Debug\StuckflowProject.Repositories.csproj.CoreCompileInputs.cache
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\StuckflowProject.Repositories.dll.config
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\StuckflowProject.Repositories.dll
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\StuckflowProject.Repositories.pdb
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\EntityFramework.dll
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\StuckflowProject.DomainModels.dll
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\StuckflowProject.DomainModels.pdb
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\StuckflowProject.DomainModels.dll.config
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\EntityFramework.xml
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\obj\Debug\StuckflowProject.Repositories.csproj.CopyComplete
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\obj\Debug\StuckflowProject.Repositories.dll
+C:\mvc\StuckflowProject\StuckflowProject.Repositories\obj\Debug\StuckflowProject.Repositories.pdb
