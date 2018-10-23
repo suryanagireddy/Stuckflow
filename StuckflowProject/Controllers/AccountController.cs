@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using StuckflowProject.ViewModels;
 using StuckflowProject.ServiceLayer;
-//using StuckflowProject.CustomFilters;
+using StuckflowProject.CustomFilters;
 
 namespace StuckflowProject.Controllers
 {
@@ -92,7 +92,7 @@ namespace StuckflowProject.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        //[UserAuthorizationFilterAttribute]
+        [UserAuthorizationFilterAttribute]
         public ActionResult ChangeProfile()
         {
             int uid = Convert.ToInt32(Session["CurrentUserID"]);
@@ -103,7 +103,7 @@ namespace StuckflowProject.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        //[UserAuthorizationFilterAttribute]
+        [UserAuthorizationFilterAttribute]
         public ActionResult ChangeProfile(EditUserDetailsViewModel eudvm)
         {
             if (ModelState.IsValid)
@@ -120,7 +120,7 @@ namespace StuckflowProject.Controllers
             }
         }
 
-        //[UserAuthorizationFilterAttribute]
+        [UserAuthorizationFilterAttribute]
         public ActionResult ChangePassword()
         {
             int uid = Convert.ToInt32(Session["CurrentUserID"]);
@@ -131,7 +131,7 @@ namespace StuckflowProject.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        //[UserAuthorizationFilterAttribute]
+        [UserAuthorizationFilterAttribute]
         public ActionResult ChangePassword(EditUserPasswordViewModel eupvm)
         {
             if (ModelState.IsValid)
